@@ -1,4 +1,4 @@
-// Replace with your actual admin credentials
+ // Replace with your actual admin credentials
 const adminEmail = "angelica.villanueva@email.lcup.edu.ph";
 const adminPassword = "lyka1234";
 
